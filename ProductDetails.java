@@ -20,6 +20,7 @@ System.out.println("Total Amount:"+Price*Quantity);
 System.out.println("Discount:"+Discount);
 System.out.println("Discount Amount:"+D);
 System.out.println("Final Bill:"+F);
+System.out.println("Discount feature completed");
     }
 }
 
