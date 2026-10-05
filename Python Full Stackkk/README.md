@@ -1,20 +1,14 @@
-# Python Full Stack Training
+### Check the virtual environment
+If you are unsure which Python interpreter is running, check its path:
 
-## Purpose
-This repository is dedicated to learning Python full-stack development, tracking code exercises, and mastering version control using Git and GitHub.
-
-## Setup
 ```powershell
-python -m venv .venv
-
+python -c "import sys; print(sys.executable)"
 ```
 
-## Activation
+For this project, the path should end with `.venv\Scripts\python.exe`.
+
+If a different environment is being used, activate this project's environment:
+
 ```powershell
 .\.venv\Scripts\Activate.ps1
-```
-
-## Run
-```powershell
-python main.py
 ```
