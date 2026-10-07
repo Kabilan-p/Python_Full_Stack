@@ -48,6 +48,7 @@
 # print("REMAINNG STOCK : ",opening_stock)
 
 
-deci=float(input("ENTER THE NUMBER: "))
-whole=int(deci)
-print(whole)
+# deci=float(input("ENTER THE NUMBER: "))
+# whole=int(deci)
+# print(whole)
+
