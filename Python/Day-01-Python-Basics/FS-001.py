@@ -12,3 +12,12 @@ qty_product2=int(input("Enter the quantity of product 2: "))
 total_quantity=qty_product1+qty_product2
 print("Customer Name:", name)
 print("Total Quantity:", total_quantity)
+
+
+
+student_name = input("Enter your name: ")
+num1 = int(input("Enter the first number: "))   
+num2 = int(input("Enter the second number: "))
+total = num1 + num2
+print("Name:", student_name)
+print("Total:", total)
