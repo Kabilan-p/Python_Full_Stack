@@ -19,9 +19,9 @@ else:
     
     # Highest mark using conditions without max()
     high = mark3
-    if mark1 > mark2 and mark1 > mark3:
+    if mark1 >= mark2 and mark1 >= mark3:
         high = mark1
-    elif mark2 > mark1 and mark2 > mark3:
+    elif mark2 >= mark1 and mark2 >=mark3:
         high = mark2
     print("Highest mark: ", high)
     
